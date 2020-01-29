@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+    padding: 0;
+}
+
+.diagram-parent {
+  height: 100%;
+  width: 100%;
+  border: solid 3px #EEE;
+  position: absolute;
+  display: flex;
+  box-sizing: border-box;
+}
